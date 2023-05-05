@@ -1,0 +1,12 @@
+c:\users\cet23\documents\visual studio 2015\Projects\while1\while1\bin\Debug\while1.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\while1\while1\obj\Debug\while1.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\while1\while1\bin\Debug\while1.exe
+c:\users\cet23\documents\visual studio 2015\Projects\while1\while1\bin\Debug\while1.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\while1\while1\obj\Debug\while1.exe
+c:\users\cet23\documents\visual studio 2015\Projects\while1\while1\obj\Debug\while1.pdb
+D:\Dropbox\TPSI\c#\while1\while1\bin\Debug\while1.exe.config
+D:\Dropbox\TPSI\c#\while1\while1\obj\Debug\while1.exe
+D:\Dropbox\TPSI\c#\while1\while1\obj\Debug\while1.pdb
+D:\Dropbox\TPSI\c#\while1\while1\bin\Debug\while1.exe
+D:\Dropbox\TPSI\c#\while1\while1\bin\Debug\while1.pdb
+D:\Dropbox\TPSI\c#\while1\while1\obj\Debug\while1.csprojResolveAssemblyReference.cache

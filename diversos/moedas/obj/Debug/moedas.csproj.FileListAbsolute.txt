@@ -1,0 +1,8 @@
+Z:\Programação\sandro\moedas\bin\Debug\moedas.exe.config
+Z:\Programação\sandro\moedas\bin\Debug\moedas.exe
+Z:\Programação\sandro\moedas\bin\Debug\moedas.pdb
+Z:\Programação\sandro\moedas\obj\Debug\moedas.csproj.AssemblyReference.cache
+Z:\Programação\sandro\moedas\obj\Debug\moedas.csproj.SuggestedBindingRedirects.cache
+Z:\Programação\sandro\moedas\obj\Debug\moedas.csproj.CoreCompileInputs.cache
+Z:\Programação\sandro\moedas\obj\Debug\moedas.exe
+Z:\Programação\sandro\moedas\obj\Debug\moedas.pdb

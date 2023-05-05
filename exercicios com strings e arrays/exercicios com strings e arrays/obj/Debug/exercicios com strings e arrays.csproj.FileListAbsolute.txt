@@ -1,0 +1,6 @@
+c:\users\cet23\documents\visual studio 2015\Projects\exercicios com strings e arrays\exercicios com strings e arrays\bin\Debug\exercicios com strings e arrays.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\exercicios com strings e arrays\exercicios com strings e arrays\bin\Debug\exercicios com strings e arrays.exe
+c:\users\cet23\documents\visual studio 2015\Projects\exercicios com strings e arrays\exercicios com strings e arrays\bin\Debug\exercicios com strings e arrays.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\exercicios com strings e arrays\exercicios com strings e arrays\obj\Debug\exercicios com strings e arrays.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\exercicios com strings e arrays\exercicios com strings e arrays\obj\Debug\exercicios com strings e arrays.exe
+c:\users\cet23\documents\visual studio 2015\Projects\exercicios com strings e arrays\exercicios com strings e arrays\obj\Debug\exercicios com strings e arrays.pdb

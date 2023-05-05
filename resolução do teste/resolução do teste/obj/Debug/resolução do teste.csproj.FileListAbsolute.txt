@@ -1,0 +1,12 @@
+c:\users\cet23\documents\visual studio 2015\Projects\resolução do teste\resolução do teste\bin\Debug\resolução do teste.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\resolução do teste\resolução do teste\bin\Debug\resolução do teste.exe
+c:\users\cet23\documents\visual studio 2015\Projects\resolução do teste\resolução do teste\bin\Debug\resolução do teste.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\resolução do teste\resolução do teste\obj\Debug\resolução do teste.exe
+c:\users\cet23\documents\visual studio 2015\Projects\resolução do teste\resolução do teste\obj\Debug\resolução do teste.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\resolução do teste\resolução do teste\obj\Debug\resolução do teste.csprojResolveAssemblyReference.cache
+D:\Dropbox\TPSI\c#\resolução do teste\resolução do teste\bin\Debug\resolução do teste.exe.config
+D:\Dropbox\TPSI\c#\resolução do teste\resolução do teste\obj\Debug\resolução do teste.exe
+D:\Dropbox\TPSI\c#\resolução do teste\resolução do teste\obj\Debug\resolução do teste.pdb
+D:\Dropbox\TPSI\c#\resolução do teste\resolução do teste\bin\Debug\resolução do teste.exe
+D:\Dropbox\TPSI\c#\resolução do teste\resolução do teste\bin\Debug\resolução do teste.pdb
+D:\Dropbox\TPSI\c#\resolução do teste\resolução do teste\obj\Debug\resolução do teste.csprojResolveAssemblyReference.cache

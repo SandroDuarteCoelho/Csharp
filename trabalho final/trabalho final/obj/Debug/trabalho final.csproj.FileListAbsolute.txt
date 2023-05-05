@@ -1,0 +1,9 @@
+c:\users\cet23\documents\visual studio 2015\Projects\trabalho final\trabalho final\bin\Debug\trabalho final.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\trabalho final\trabalho final\bin\Debug\trabalho final.exe
+c:\users\cet23\documents\visual studio 2015\Projects\trabalho final\trabalho final\bin\Debug\trabalho final.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\trabalho final\trabalho final\obj\Debug\trabalho final.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\trabalho final\trabalho final\obj\Debug\trabalho final.exe
+c:\users\cet23\documents\visual studio 2015\Projects\trabalho final\trabalho final\obj\Debug\trabalho final.pdb
+D:\Dropbox\TPSI\c#\trabalho final\trabalho final\bin\Debug\trabalho final.exe.config
+D:\Dropbox\TPSI\c#\trabalho final\trabalho final\obj\Debug\trabalho final.exe
+D:\Dropbox\TPSI\c#\trabalho final\trabalho final\obj\Debug\trabalho final.pdb

@@ -1,0 +1,6 @@
+projectKey=factorial
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=factorial
+ceTaskId=AYa8FNK1VNmaghSCnEDx
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYa8FNK1VNmaghSCnEDx

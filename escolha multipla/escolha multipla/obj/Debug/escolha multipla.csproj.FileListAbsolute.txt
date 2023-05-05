@@ -1,0 +1,15 @@
+c:\users\cet23\documents\visual studio 2015\Projects\escolha multipla\escolha multipla\bin\Debug\escolha multipla.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\escolha multipla\escolha multipla\bin\Debug\escolha multipla.exe
+c:\users\cet23\documents\visual studio 2015\Projects\escolha multipla\escolha multipla\bin\Debug\escolha multipla.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\escolha multipla\escolha multipla\obj\Debug\escolha multipla.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\escolha multipla\escolha multipla\obj\Debug\escolha multipla.exe
+c:\users\cet23\documents\visual studio 2015\Projects\escolha multipla\escolha multipla\obj\Debug\escolha multipla.pdb
+D:\Dropbox\TPSI\c#\escolha multipla\escolha multipla\bin\Debug\escolha multipla.exe.config
+D:\Dropbox\TPSI\c#\escolha multipla\escolha multipla\obj\Debug\escolha multipla.exe
+D:\Dropbox\TPSI\c#\escolha multipla\escolha multipla\obj\Debug\escolha multipla.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\escolha multipla\escolha multipla\bin\Debug\escolha multipla.exe.config
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\escolha multipla\escolha multipla\obj\Debug\escolha multipla.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\escolha multipla\escolha multipla\obj\Debug\escolha multipla.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\escolha multipla\escolha multipla\bin\Debug\escolha multipla.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\escolha multipla\escolha multipla\bin\Debug\escolha multipla.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\escolha multipla\escolha multipla\obj\Debug\escolha multipla.csprojResolveAssemblyReference.cache

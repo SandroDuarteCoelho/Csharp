@@ -1,0 +1,20 @@
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

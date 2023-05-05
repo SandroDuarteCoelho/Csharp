@@ -1,0 +1,20 @@
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador_de_Imagens.Form1.resources
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador_de_Imagens.Properties.Resources.resources
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.GenerateResource.Cache
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.pdb
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.exe.config
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.pdb
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.AssemblyReference.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador_de_Imagens.Form1.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador_de_Imagens.Properties.Resources.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.GenerateResource.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.pdb

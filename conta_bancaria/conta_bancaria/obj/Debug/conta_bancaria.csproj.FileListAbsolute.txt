@@ -1,0 +1,6 @@
+c:\users\cet23\documents\visual studio 2015\Projects\conta_bancaria\conta_bancaria\bin\Debug\conta_bancaria.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\conta_bancaria\conta_bancaria\obj\Debug\conta_bancaria.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\conta_bancaria\conta_bancaria\bin\Debug\conta_bancaria.exe
+c:\users\cet23\documents\visual studio 2015\Projects\conta_bancaria\conta_bancaria\bin\Debug\conta_bancaria.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\conta_bancaria\conta_bancaria\obj\Debug\conta_bancaria.exe
+c:\users\cet23\documents\visual studio 2015\Projects\conta_bancaria\conta_bancaria\obj\Debug\conta_bancaria.pdb

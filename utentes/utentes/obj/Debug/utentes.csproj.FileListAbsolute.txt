@@ -1,0 +1,50 @@
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\bin\Debug\utentes.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\bin\Debug\utentes.exe
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\bin\Debug\utentes.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.Form1.resources
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.Properties.Resources.resources
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.csproj.GenerateResource.Cache
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.exe
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.ADICIONAR.resources
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.DIARIO.resources
+c:\users\cet23\documents\visual studio 2015\Projects\utentes\utentes\obj\Debug\utentes.LISTA.resources
+E:\Dropbox\TPSI\c#\utentes\utentes\bin\Debug\utentes.exe.config
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.pdb
+E:\Dropbox\TPSI\c#\utentes\utentes\bin\Debug\utentes.exe
+E:\Dropbox\TPSI\c#\utentes\utentes\bin\Debug\utentes.pdb
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.csprojResolveAssemblyReference.cache
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.ADICIONAR.resources
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.DIARIO.resources
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.Form1.resources
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.LISTA.resources
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.Properties.Resources.resources
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.csproj.GenerateResource.Cache
+E:\Dropbox\TPSI\c#\utentes\utentes\obj\Debug\utentes.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\bin\Debug\utentes.exe.config
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\bin\Debug\utentes.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\bin\Debug\utentes.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.csprojResolveAssemblyReference.cache
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.ADICIONAR.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.DIARIO.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.Form1.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.LISTA.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.Properties.Resources.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\utentes\utentes\obj\Debug\utentes.csproj.GenerateResource.Cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\bin\Debug\utentes.exe.config
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\bin\Debug\utentes.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\bin\Debug\utentes.pdb
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.csproj.AssemblyReference.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.ADICIONAR.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.DIARIO.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.Form1.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.LISTA.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.Properties.Resources.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.csproj.GenerateResource.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\utentes\utentes\obj\Debug\utentes.pdb

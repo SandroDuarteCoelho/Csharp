@@ -1,0 +1,8 @@
+c:\users\cet23\documents\visual studio 2015\Projects\String_e_Enum\String_e_Enum\bin\Debug\String_e_Enum.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\String_e_Enum\String_e_Enum\bin\Debug\String_e_Enum.exe
+c:\users\cet23\documents\visual studio 2015\Projects\String_e_Enum\String_e_Enum\bin\Debug\String_e_Enum.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\String_e_Enum\String_e_Enum\obj\Debug\String_e_Enum.exe
+c:\users\cet23\documents\visual studio 2015\Projects\String_e_Enum\String_e_Enum\obj\Debug\String_e_Enum.pdb
+D:\Dropbox\TPSI\c#\String_e_Enum\String_e_Enum\bin\Debug\String_e_Enum.exe.config
+D:\Dropbox\TPSI\c#\String_e_Enum\String_e_Enum\obj\Debug\String_e_Enum.exe
+D:\Dropbox\TPSI\c#\String_e_Enum\String_e_Enum\obj\Debug\String_e_Enum.pdb

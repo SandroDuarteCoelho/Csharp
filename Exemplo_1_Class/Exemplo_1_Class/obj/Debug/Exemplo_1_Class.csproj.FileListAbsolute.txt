@@ -1,0 +1,6 @@
+c:\users\cet23\documents\visual studio 2015\Projects\Exemplo_1_Class\Exemplo_1_Class\bin\Debug\Exemplo_1_Class.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\Exemplo_1_Class\Exemplo_1_Class\bin\Debug\Exemplo_1_Class.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Exemplo_1_Class\Exemplo_1_Class\bin\Debug\Exemplo_1_Class.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\Exemplo_1_Class\Exemplo_1_Class\obj\Debug\Exemplo_1_Class.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\Exemplo_1_Class\Exemplo_1_Class\obj\Debug\Exemplo_1_Class.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Exemplo_1_Class\Exemplo_1_Class\obj\Debug\Exemplo_1_Class.pdb

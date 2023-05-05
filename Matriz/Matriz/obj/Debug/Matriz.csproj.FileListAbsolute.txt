@@ -1,0 +1,6 @@
+c:\users\cet23\documents\visual studio 2015\Projects\Matriz\Matriz\bin\Debug\Matriz.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\Matriz\Matriz\bin\Debug\Matriz.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Matriz\Matriz\bin\Debug\Matriz.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\Matriz\Matriz\obj\Debug\Matriz.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Matriz\Matriz\obj\Debug\Matriz.pdb

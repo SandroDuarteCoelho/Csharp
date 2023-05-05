@@ -1,0 +1,12 @@
+c:\users\cet23\documents\visual studio 2015\Projects\resolucao_teste_2\resolucao_teste_2\bin\Debug\resolucao_teste_2.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\resolucao_teste_2\resolucao_teste_2\bin\Debug\resolucao_teste_2.exe
+c:\users\cet23\documents\visual studio 2015\Projects\resolucao_teste_2\resolucao_teste_2\bin\Debug\resolucao_teste_2.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\resolucao_teste_2\resolucao_teste_2\obj\Debug\resolucao_teste_2.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\resolucao_teste_2\resolucao_teste_2\obj\Debug\resolucao_teste_2.exe
+c:\users\cet23\documents\visual studio 2015\Projects\resolucao_teste_2\resolucao_teste_2\obj\Debug\resolucao_teste_2.pdb
+D:\Dropbox\TPSI\c#\resolucao_teste_2\resolucao_teste_2\bin\Debug\resolucao_teste_2.exe.config
+D:\Dropbox\TPSI\c#\resolucao_teste_2\resolucao_teste_2\obj\Debug\resolucao_teste_2.exe
+D:\Dropbox\TPSI\c#\resolucao_teste_2\resolucao_teste_2\obj\Debug\resolucao_teste_2.pdb
+D:\Dropbox\TPSI\c#\resolucao_teste_2\resolucao_teste_2\bin\Debug\resolucao_teste_2.exe
+D:\Dropbox\TPSI\c#\resolucao_teste_2\resolucao_teste_2\bin\Debug\resolucao_teste_2.pdb
+D:\Dropbox\TPSI\c#\resolucao_teste_2\resolucao_teste_2\obj\Debug\resolucao_teste_2.csprojResolveAssemblyReference.cache

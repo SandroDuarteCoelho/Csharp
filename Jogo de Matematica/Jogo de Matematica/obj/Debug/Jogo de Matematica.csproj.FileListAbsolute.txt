@@ -1,0 +1,33 @@
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo_de_Matematica.Form1.resources
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo_de_Matematica.Properties.Resources.resources
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csproj.GenerateResource.Cache
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.exe.config
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csprojResolveAssemblyReference.cache
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo_de_Matematica.Form1.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo_de_Matematica.Properties.Resources.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csproj.GenerateResource.Cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.exe.config
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\bin\Debug\Jogo de Matematica.pdb
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csproj.AssemblyReference.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo_de_Matematica.Form1.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo_de_Matematica.Properties.Resources.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csproj.GenerateResource.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.pdb
+Z:\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csproj.AssemblyReference.cache
+Z:\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.csproj.SuggestedBindingRedirects.cache
+Z:\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.exe
+Z:\Programação\exercicios\c#\Jogo de Matematica\Jogo de Matematica\obj\Debug\Jogo de Matematica.pdb

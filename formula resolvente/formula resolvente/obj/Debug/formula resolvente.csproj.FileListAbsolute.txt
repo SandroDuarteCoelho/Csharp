@@ -1,0 +1,11 @@
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente\formula resolvente\bin\Debug\formula resolvente.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente\formula resolvente\bin\Debug\formula resolvente.exe
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente\formula resolvente\bin\Debug\formula resolvente.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente\formula resolvente\obj\Debug\formula resolvente.exe
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente\formula resolvente\obj\Debug\formula resolvente.pdb
+D:\Dropbox\TPSI\c#\formula resolvente\formula resolvente\bin\Debug\formula resolvente.exe.config
+D:\Dropbox\TPSI\c#\formula resolvente\formula resolvente\obj\Debug\formula resolvente.exe
+D:\Dropbox\TPSI\c#\formula resolvente\formula resolvente\obj\Debug\formula resolvente.pdb
+D:\Dropbox\TPSI\c#\formula resolvente\formula resolvente\bin\Debug\formula resolvente.exe
+D:\Dropbox\TPSI\c#\formula resolvente\formula resolvente\bin\Debug\formula resolvente.pdb
+D:\Dropbox\TPSI\c#\formula resolvente\formula resolvente\obj\Debug\formula resolvente.csprojResolveAssemblyReference.cache

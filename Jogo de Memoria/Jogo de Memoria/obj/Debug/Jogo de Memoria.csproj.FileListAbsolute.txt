@@ -1,0 +1,40 @@
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo_de_Memoria.Form1.resources
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo_de_Memoria.Properties.Resources.resources
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.GenerateResource.Cache
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.exe.config
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csprojResolveAssemblyReference.cache
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo_de_Memoria.Form1.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo_de_Memoria.Properties.Resources.resources
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.GenerateResource.Cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.exe.config
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.pdb
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.AssemblyReference.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo_de_Memoria.Form1.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo_de_Memoria.Properties.Resources.resources
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.GenerateResource.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.exe
+C:\Users\Sandro\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.pdb
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.exe.config
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.exe
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\bin\Debug\Jogo de Memoria.pdb
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo_de_Memoria.Form1.resources
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo_de_Memoria.Properties.Resources.resources
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.GenerateResource.cache
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.exe
+C:\Users\joana\Dropbox\Programação\exercicios\c#\Jogo de Memoria\Jogo de Memoria\obj\Debug\Jogo de Memoria.pdb

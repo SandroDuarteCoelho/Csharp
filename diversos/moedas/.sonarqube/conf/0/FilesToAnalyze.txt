@@ -1,0 +1,3 @@
+﻿Z:\Programação\sandro\moedas\Program.cs
+Z:\Programação\sandro\moedas\Properties\AssemblyInfo.cs
+Z:\Programação\sandro\moedas\App.config

@@ -1,0 +1,5 @@
+c:\users\cet23\documents\visual studio 2015\Projects\hmsegundos\hmsegundos\bin\Debug\hmsegundos.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\hmsegundos\hmsegundos\bin\Debug\hmsegundos.exe
+c:\users\cet23\documents\visual studio 2015\Projects\hmsegundos\hmsegundos\bin\Debug\hmsegundos.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\hmsegundos\hmsegundos\obj\Debug\hmsegundos.exe
+c:\users\cet23\documents\visual studio 2015\Projects\hmsegundos\hmsegundos\obj\Debug\hmsegundos.pdb

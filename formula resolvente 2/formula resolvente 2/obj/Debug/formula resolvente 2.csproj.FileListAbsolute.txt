@@ -1,0 +1,18 @@
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.exe
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.exe
+c:\users\cet23\documents\visual studio 2015\Projects\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.pdb
+D:\Dropbox\TPSI\c#\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.exe.config
+D:\Dropbox\TPSI\c#\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.exe
+D:\Dropbox\TPSI\c#\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.pdb
+D:\Dropbox\TPSI\c#\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.exe
+D:\Dropbox\TPSI\c#\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.pdb
+D:\Dropbox\TPSI\c#\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.csprojResolveAssemblyReference.cache
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.exe.config
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.exe
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\formula resolvente 2\formula resolvente 2\bin\Debug\formula resolvente 2.pdb
+\\BOX-Coelhos\DISCO2\formação CETs\Sandro - TPSI\c#\formula resolvente 2\formula resolvente 2\obj\Debug\formula resolvente 2.csprojResolveAssemblyReference.cache

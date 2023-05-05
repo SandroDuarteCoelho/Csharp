@@ -1,0 +1,9 @@
+c:\users\cet23\documents\visual studio 2015\Projects\operadores\operadores\bin\Debug\operadores.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\operadores\operadores\bin\Debug\operadores.exe
+c:\users\cet23\documents\visual studio 2015\Projects\operadores\operadores\bin\Debug\operadores.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\operadores\operadores\obj\Debug\operadores.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\operadores\operadores\obj\Debug\operadores.exe
+c:\users\cet23\documents\visual studio 2015\Projects\operadores\operadores\obj\Debug\operadores.pdb
+D:\Dropbox\TPSI\c#\operadores\operadores\bin\Debug\operadores.exe.config
+D:\Dropbox\TPSI\c#\operadores\operadores\obj\Debug\operadores.exe
+D:\Dropbox\TPSI\c#\operadores\operadores\obj\Debug\operadores.pdb

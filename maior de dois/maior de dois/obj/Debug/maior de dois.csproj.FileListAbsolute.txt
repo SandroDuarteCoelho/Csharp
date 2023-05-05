@@ -1,0 +1,6 @@
+c:\users\cet23\documents\visual studio 2015\Projects\maior de dois\maior de dois\bin\Debug\maior de dois.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\maior de dois\maior de dois\bin\Debug\maior de dois.exe
+c:\users\cet23\documents\visual studio 2015\Projects\maior de dois\maior de dois\bin\Debug\maior de dois.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\maior de dois\maior de dois\obj\Debug\maior de dois.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\maior de dois\maior de dois\obj\Debug\maior de dois.exe
+c:\users\cet23\documents\visual studio 2015\Projects\maior de dois\maior de dois\obj\Debug\maior de dois.pdb

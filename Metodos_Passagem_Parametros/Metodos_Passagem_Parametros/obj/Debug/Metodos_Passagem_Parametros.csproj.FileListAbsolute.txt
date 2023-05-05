@@ -1,0 +1,6 @@
+c:\users\cet23\documents\visual studio 2015\Projects\Metodos_Passagem_Parametros\Metodos_Passagem_Parametros\bin\Debug\Metodos_Passagem_Parametros.exe.config
+c:\users\cet23\documents\visual studio 2015\Projects\Metodos_Passagem_Parametros\Metodos_Passagem_Parametros\bin\Debug\Metodos_Passagem_Parametros.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Metodos_Passagem_Parametros\Metodos_Passagem_Parametros\bin\Debug\Metodos_Passagem_Parametros.pdb
+c:\users\cet23\documents\visual studio 2015\Projects\Metodos_Passagem_Parametros\Metodos_Passagem_Parametros\obj\Debug\Metodos_Passagem_Parametros.csprojResolveAssemblyReference.cache
+c:\users\cet23\documents\visual studio 2015\Projects\Metodos_Passagem_Parametros\Metodos_Passagem_Parametros\obj\Debug\Metodos_Passagem_Parametros.exe
+c:\users\cet23\documents\visual studio 2015\Projects\Metodos_Passagem_Parametros\Metodos_Passagem_Parametros\obj\Debug\Metodos_Passagem_Parametros.pdb

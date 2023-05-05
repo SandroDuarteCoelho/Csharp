@@ -1,0 +1,16 @@
+C:\Users\Sandro\Dropbox\Programação\sandro\calcula_segundos\bin\Debug\calcula_segundos.exe.config
+C:\Users\Sandro\Dropbox\Programação\sandro\calcula_segundos\bin\Debug\calcula_segundos.exe
+C:\Users\Sandro\Dropbox\Programação\sandro\calcula_segundos\bin\Debug\calcula_segundos.pdb
+C:\Users\Sandro\Dropbox\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.csproj.AssemblyReference.cache
+C:\Users\Sandro\Dropbox\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandro\Dropbox\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Dropbox\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.exe
+C:\Users\Sandro\Dropbox\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.pdb
+Z:\Programação\sandro\calcula_segundos\bin\Debug\calcula_segundos.exe.config
+Z:\Programação\sandro\calcula_segundos\bin\Debug\calcula_segundos.exe
+Z:\Programação\sandro\calcula_segundos\bin\Debug\calcula_segundos.pdb
+Z:\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.csproj.AssemblyReference.cache
+Z:\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.csproj.SuggestedBindingRedirects.cache
+Z:\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.csproj.CoreCompileInputs.cache
+Z:\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.exe
+Z:\Programação\sandro\calcula_segundos\obj\Debug\calcula_segundos.pdb

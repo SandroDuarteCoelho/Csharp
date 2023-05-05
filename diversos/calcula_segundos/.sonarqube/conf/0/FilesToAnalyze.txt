@@ -1,0 +1,3 @@
+﻿Z:\Programação\sandro\calcula_segundos\Program.cs
+Z:\Programação\sandro\calcula_segundos\Properties\AssemblyInfo.cs
+Z:\Programação\sandro\calcula_segundos\App.config

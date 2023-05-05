@@ -1,0 +1,6 @@
+c:\users\cet23\documents\visual studio 2015\Projects\trabalho pratico 7deMarço\trabalho pratico 7deMarço\bin\Debug\trabalho pratico 7deMarço.exe.config
+C:\Users\cet23\Documents\Visual Studio 2015\Projects\trabalho pratico 7deMarço\trabalho pratico 7deMarço\bin\Debug\trabalho pratico 7deMarço.exe
+C:\Users\cet23\Documents\Visual Studio 2015\Projects\trabalho pratico 7deMarço\trabalho pratico 7deMarço\bin\Debug\trabalho pratico 7deMarço.pdb
+C:\Users\cet23\Documents\Visual Studio 2015\Projects\trabalho pratico 7deMarço\trabalho pratico 7deMarço\obj\Debug\trabalho pratico 7deMarço.csprojResolveAssemblyReference.cache
+C:\Users\cet23\Documents\Visual Studio 2015\Projects\trabalho pratico 7deMarço\trabalho pratico 7deMarço\obj\Debug\trabalho pratico 7deMarço.exe
+C:\Users\cet23\Documents\Visual Studio 2015\Projects\trabalho pratico 7deMarço\trabalho pratico 7deMarço\obj\Debug\trabalho pratico 7deMarço.pdb
